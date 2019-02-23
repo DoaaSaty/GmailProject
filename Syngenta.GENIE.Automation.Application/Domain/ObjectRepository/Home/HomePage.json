@@ -1,0 +1,76 @@
+﻿[
+  {  "KeyName": "composeBtn",
+    "LocatorType": "XPath",
+    "LocatorValue": "//*[text()='Compose']",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "toTextField",
+    "LocatorType": "XPath",
+    "LocatorValue": "//textarea[@name='to']",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "subjectTextField",
+    "LocatorType": "CssSelector",
+    "LocatorValue": "input[name='subjectbox']",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "body",
+    "LocatorType": "XPath",
+    "LocatorValue": "//div[@class='Ar Au']//div",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "threeDotsBtn",
+    "LocatorType": "XPath",
+    "LocatorValue": "//img[@class='Y1']/parent::div/parent::div/div[2]",
+    "IsLazyLoaded": "true"
+
+  },
+  {
+    "KeyName": "labelOptions",
+    "LocatorType": "XPath",
+    "LocatorValue": "//*[text()='Label']",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "socialCheckBox",
+    "LocatorType": "XPath",
+    "LocatorValue": "//div[@class='J-LC J-LC-JT']/div/div",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "sendBtn",
+    "LocatorType": "XPath",
+    "LocatorValue": "//div[contains(text(),'Send')]",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "inbox",
+    "LocatorType": "CssSelector",
+    "LocatorValue": "a[title='Inbox']",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "firstMailStarred",
+    "LocatorType": "XPath",
+    "LocatorValue": "//table/tbody/tr[1]/td[3]/span",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "myReceivedMail",
+    "LocatorType": "XPath",
+    "LocatorValue": "//*[@class='zA zE']",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "receivedMailSubject",
+    "LocatorType": "XPath",
+    "LocatorValue": "//h2[text()='DoaaCrossoverTest']",
+    "IsLazyLoaded": "true"
+    
+  }
+
+]

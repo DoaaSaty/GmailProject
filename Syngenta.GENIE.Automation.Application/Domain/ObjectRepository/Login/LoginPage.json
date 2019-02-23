@@ -1,0 +1,25 @@
+﻿[
+  {  "KeyName": "emailTextfield",
+    "LocatorType": "Id",
+    "LocatorValue": "identifierId",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "nextBtn",
+    "LocatorType": "XPath",
+    "LocatorValue": "//*[text()='Next']",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "passwordTextField",
+    "LocatorType": "CssSelector",
+    "LocatorValue": "input[name='password']",
+    "IsLazyLoaded": "true"
+  },
+  {
+    "KeyName": "nextBtn2",
+    "LocatorType": "XPath",
+    "LocatorValue": "//*[text()='Next']",
+    "IsLazyLoaded": "true"
+  }
+]

@@ -1,0 +1,44 @@
+[1119/175429.131:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1119/175632.611:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1119/180024.537:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1119/180048.585:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1119/181244.949:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1119/182105.165:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1119/183655.065:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1119/185733.786:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1119/193435.166:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1125/113408.308:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1125/120208.143:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1125/190047.829:ERROR:file_io_win.cc(161)] CreateFile C:\Users\MOSTAF~1.OSA\AppData\Local\Temp\scoped_dir14072_7349\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1125/190303.200:ERROR:file_io_win.cc(170)] CreateFile C:\Users\MOSTAF~1.OSA\AppData\Local\Temp\scoped_dir14072_7349\Crashpad\reports\c79da8d1-4a15-4dca-83c0-a08bdefb2179.dmp: The system cannot find the path specified. (0x3)
+[1125/190312.405:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1125/223611.355:ERROR:file_io_win.cc(161)] CreateFile C:\Users\MOSTAF~1.OSA\AppData\Local\Temp\scoped_dir16168_6508\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1125/223611.527:ERROR:file_io_win.cc(170)] CreateFile C:\Users\MOSTAF~1.OSA\AppData\Local\Temp\scoped_dir16168_6508\Crashpad\reports\adaeda5e-20e5-4e33-b381-b3cd5062c305.dmp: The system cannot find the path specified. (0x3)
+[1125/223611.527:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1126/155742.098:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1126/183636.230:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1126/201023.124:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1126/201210.142:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1126/201247.415:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1126/201704.993:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1126/201921.830:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1127/045810.113:ERROR:file_io_win.cc(161)] CreateFile C:\Users\MOSTAF~1.OSA\AppData\Local\Temp\scoped_dir25292_20892\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1127/045813.041:ERROR:file_io_win.cc(170)] CreateFile C:\Users\MOSTAF~1.OSA\AppData\Local\Temp\scoped_dir25292_20892\Crashpad\reports\04fc80ba-4cce-4bb9-bf10-facc8ce5406e.dmp: The system cannot find the path specified. (0x3)
+[1127/045813.041:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1127/045918.953:ERROR:crash_report_database_win.cc(547)] GetFileAttributes C:\Users\MOSTAF~1.OSA\AppData\Local\Temp\scoped_dir22836_15867\Crashpad: The system cannot find the file specified. (0x2)
+[1127/094034.101:ERROR:file_io_win.cc(161)] CreateFile C:\Users\MOSTAF~1.OSA\AppData\Local\Temp\scoped_dir13488_2414\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1127/094034.137:ERROR:file_io_win.cc(170)] CreateFile C:\Users\MOSTAF~1.OSA\AppData\Local\Temp\scoped_dir13488_2414\Crashpad\reports\b92eb05b-9108-4d36-8766-b2268b225ed1.dmp: The system cannot find the path specified. (0x3)
+[1127/094034.137:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1202/141850.808:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1202/144812.339:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1202/230257.066:ERROR:crash_report_database_win.cc(547)] GetFileAttributes C:\Users\MOSTAF~1.OSA\AppData\Local\Temp\scoped_dir608_2034\Crashpad: The system cannot find the file specified. (0x2)
+[1203/022046.834:ERROR:file_io_win.cc(161)] CreateFile C:\Users\MOSTAF~1.OSA\AppData\Local\Temp\scoped_dir17280_24601\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1203/022047.710:ERROR:file_io_win.cc(170)] CreateFile C:\Users\MOSTAF~1.OSA\AppData\Local\Temp\scoped_dir17280_24601\Crashpad\reports\fd6d4417-b247-4284-9789-fe218215dbd1.dmp: The system cannot find the path specified. (0x3)
+[1203/022047.710:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1203/120754.495:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1203/122832.095:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1203/163302.961:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1203/163812.351:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1203/163939.206:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1203/164229.243:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1203/164913.779:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
